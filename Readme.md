@@ -1,5 +1,5 @@
 # Configure and Run
-This is a simple potractor project
+This is a simple potractor project.
 To run test you should do next steps:
 >Run selenium stand alone server
 
